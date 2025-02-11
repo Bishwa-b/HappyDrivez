@@ -50,7 +50,7 @@ export const cars: Car[] = [
     name: 'KIA Sonet',
     description: 'Compact SUV with modern features and comfortable ride.',
     image:
-      'https://images.unsplash.com/photo-1669224161033-93a521c9eea9?auto=format&fit=crop&q=80&w=1200',
+      'https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/sonet-qy-22my/features/360vr/exterior/clear_white/46.png',
     logo: 'https://www.carlogos.org/car-logos/kia-logo.png',
     price: '2300',
     price7Days: '2100',
@@ -72,7 +72,7 @@ export const cars: Car[] = [
     name: 'Creta',
     description: 'Popular mid-size SUV with premium features and comfort.',
     image:
-      'https://images.unsplash.com/photo-1669224161033-93a521c9eea9?auto=format&fit=crop&q=80&w=1200',
+      'https://w7.pngwing.com/pngs/755/262/png-transparent-hyundai-motor-company-car-hyundai-creta-hyundai-accent-hyundai-compact-car-car-color-thumbnail.png',
     logo: 'https://www.carlogos.org/car-logos/hyundai-logo.png',
     price: '2500',
     price7Days: '2300',
@@ -94,7 +94,7 @@ export const cars: Car[] = [
     name: 'i20',
     description: 'Modern hatchback with advanced features and style.',
     image:
-      'https://images.unsplash.com/photo-1687456503848-28ca347d1b16?auto=format&fit=crop&q=80&w=1200',
+      'https://w7.pngwing.com/pngs/165/87/png-transparent-hyundai-i20-car-volkswagen-hyundai-elite-i20-asta-hyundai-i20-compact-car-headlamp-subcompact-car-thumbnail.png',
     logo: 'https://www.carlogos.org/car-logos/hyundai-logo.png',
     price: '2000',
     price7Days: '1800',
@@ -116,7 +116,7 @@ export const cars: Car[] = [
     name: 'Ertiga',
     description: 'Spacious MPV perfect for family trips and group travel.',
     image:
-      'https://images.unsplash.com/photo-1614200187524-dc4b892acf16?auto=format&fit=crop&q=80&w=1200',
+      'https://imgd.aeplcdn.com/664x374/n/c6es93a_1572125.jpg?q=80',
     logo: 'https://www.carlogos.org/car-logos/suzuki-logo.png',
     price: '2700',
     price7Days: '2500',
@@ -138,7 +138,7 @@ export const cars: Car[] = [
     name: 'KIA Carens',
     description: 'Premium MPV with luxurious features and comfort.',
     image:
-      'https://images.unsplash.com/photo-1614200187524-dc4b892acf16?auto=format&fit=crop&q=80&w=1200',
+      'https://www.kia.com/content/dam/kia2/in/en/images/buy/how-it-works/HIW-carens-third-image.png',
     logo: 'https://www.carlogos.org/car-logos/kia-logo.png',
     price: '3000',
     price7Days: '2800',
@@ -160,7 +160,7 @@ export const cars: Car[] = [
     name: 'Crysta',
     description: 'Luxury MPV with exceptional comfort and space.',
     image:
-      'https://images.unsplash.com/photo-1614200187524-dc4b892acf16?auto=format&fit=crop&q=80&w=1200',
+      'https://i.pinimg.com/736x/17/2a/3d/172a3de3053ae080a26f6bf67adef575.jpg',
     logo: 'https://www.carlogos.org/car-logos/toyota-logo.png',
     price: '4000',
     price7Days: '4000',
@@ -182,8 +182,8 @@ export const cars: Car[] = [
     name: 'Thar',
     description: 'Iconic off-road SUV for adventure enthusiasts.',
     image:
-      'https://images.unsplash.com/photo-1669224161033-93a521c9eea9?auto=format&fit=crop&q=80&w=1200',
-    logo: 'https://gallerypng.com/wp-content/uploads/2024/05/mahindra-new-logo-png-image.png',
+      'https://i.pinimg.com/736x/1f/42/8e/1f428ed25b47ee592594642f90984df0.jpg',
+    logo: 'https://logowik.com/content/uploads/images/mahindra-suv1293.jpg',
     price: '5500',
     price7Days: '5000',
     price15Days: '4500',
@@ -204,7 +204,7 @@ export const cars: Car[] = [
     name: 'Fortuner',
     description: 'Premium SUV with commanding presence and luxury features.',
     image:
-      'https://images.unsplash.com/photo-1669224161033-93a521c9eea9?auto=format&fit=crop&q=80&w=1200',
+      'https://e7.pngegg.com/pngimages/711/730/png-clipart-toyota-fortuner-car-toyota-avanza-daihatsu-ayla-toyota-compact-car-glass.png',
     logo: 'https://www.carlogos.org/car-logos/toyota-logo.png',
     price: '7000',
     price7Days: '6000',
