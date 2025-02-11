@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2">
               <Car className="h-8 w-8 text-blue-500" />
-              <span className="text-2xl font-bold">LuxeDrive</span>
+              <span className="text-2xl font-bold">HappyDrivez</span>
             </div>
             <p className="mt-4 text-grey">
               Luxury car rental service providing premium vehicles and
@@ -67,17 +67,17 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
             <ul className="space-y-2">
-              <li className="text-gray-400">123 Luxury Lane</li>
-              <li className="text-gray-400">Beverly Hills, CA 90210</li>
-              <li className="text-gray-400">+1 (234) 567-8900</li>
-              <li className="text-gray-400">contact@luxedrive.com</li>
+              <li className="text-gray-400">Sri Ramanapuram Colony</li>
+              <li className="text-gray-400">Ramanthapur, HYD 500013</li>
+              <li className="text-gray-400">+91 (934) 691-2387</li>
+              <li className="text-gray-400">omvamshi2001@gmail.com</li>
             </ul>
           </div>
         </div>
 
         <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400">
           <p>
-            &copy; {new Date().getFullYear()} LuxeDrive. All rights reserved.
+            &copy; {new Date().getFullYear()} HappyDrivez. All rights reserved.
           </p>
         </div>
       </div>

@@ -6,7 +6,7 @@ export const cars: Car[] = [
     name: 'Maruti Suzuki Swift',
     description: 'Efficient and reliable compact car perfect for city driving.',
     image:
-      'https://images.unsplash.com/photo-1709538513947-5d4d838d3452?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://imgd-ct.aeplcdn.com/1056x660/n/ir6i4ta_1508719.jpg?q=80',
     logo: 'https://www.carlogos.org/car-logos/suzuki-logo.png',
     price: '2000',
     price7Days: '1800',
@@ -15,7 +15,7 @@ export const cars: Car[] = [
     extraKm: '7',
     extraHour: '150',
     rating: '4.5',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '5',
       transmission: 'Manual',
@@ -28,7 +28,7 @@ export const cars: Car[] = [
     name: 'Baleno',
     description: 'Premium hatchback with superior comfort and features.',
     image:
-      'https://images.unsplash.com/photo-1655015887321-5826a531e7ce?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-66.jpeg?isig=0&q=80',
     logo: 'https://www.carlogos.org/car-logos/suzuki-logo.png',
     price: '2000',
     price7Days: '1800',
@@ -37,7 +37,7 @@ export const cars: Car[] = [
     extraKm: '7',
     extraHour: '150',
     rating: '4.6',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '5',
       transmission: 'Manual',
@@ -50,7 +50,7 @@ export const cars: Car[] = [
     name: 'KIA Sonet',
     description: 'Compact SUV with modern features and comfortable ride.',
     image:
-      'https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/sonet-qy-22my/features/360vr/exterior/clear_white/46.png',
+      'https://imgd-ct.aeplcdn.com/664x415/n/sc5n3cb_1726733.jpg?q=80',
     logo: 'https://www.carlogos.org/car-logos/kia-logo.png',
     price: '2300',
     price7Days: '2100',
@@ -59,7 +59,7 @@ export const cars: Car[] = [
     extraKm: '7',
     extraHour: '180',
     rating: '4.7',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '5',
       transmission: 'Automatic',
@@ -72,7 +72,7 @@ export const cars: Car[] = [
     name: 'Creta',
     description: 'Popular mid-size SUV with premium features and comfort.',
     image:
-      'https://w7.pngwing.com/pngs/755/262/png-transparent-hyundai-motor-company-car-hyundai-creta-hyundai-accent-hyundai-compact-car-car-color-thumbnail.png',
+      'https://img-c.drive.ru/models.photos/0000/000/000/001/7de/48d7c5c5ddc4455e-large.jpg',
     logo: 'https://www.carlogos.org/car-logos/hyundai-logo.png',
     price: '2500',
     price7Days: '2300',
@@ -81,7 +81,7 @@ export const cars: Car[] = [
     extraKm: '7',
     extraHour: '180',
     rating: '4.8',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '5',
       transmission: 'Automatic',
@@ -94,7 +94,7 @@ export const cars: Car[] = [
     name: 'i20',
     description: 'Modern hatchback with advanced features and style.',
     image:
-      'https://w7.pngwing.com/pngs/165/87/png-transparent-hyundai-i20-car-volkswagen-hyundai-elite-i20-asta-hyundai-i20-compact-car-headlamp-subcompact-car-thumbnail.png',
+      'https://imgd.aeplcdn.com/1920x1080/n/cw/ec/158139/i20-n-line-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80&q=80',
     logo: 'https://www.carlogos.org/car-logos/hyundai-logo.png',
     price: '2000',
     price7Days: '1800',
@@ -103,7 +103,7 @@ export const cars: Car[] = [
     extraKm: '9',
     extraHour: '150',
     rating: '4.6',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '5',
       transmission: 'Manual',
@@ -125,7 +125,7 @@ export const cars: Car[] = [
     extraKm: '9',
     extraHour: '200',
     rating: '4.7',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '7',
       transmission: 'Manual',
@@ -138,7 +138,7 @@ export const cars: Car[] = [
     name: 'KIA Carens',
     description: 'Premium MPV with luxurious features and comfort.',
     image:
-      'https://www.kia.com/content/dam/kia2/in/en/images/buy/how-it-works/HIW-carens-third-image.png',
+      'https://imgd-ct.aeplcdn.com/1056x660/n/vr8j3cb_1726571.jpg?q=80',
     logo: 'https://www.carlogos.org/car-logos/kia-logo.png',
     price: '3000',
     price7Days: '2800',
@@ -147,12 +147,12 @@ export const cars: Car[] = [
     extraKm: '11',
     extraHour: '200',
     rating: '4.8',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '7',
       transmission: 'Automatic',
       fuelType: 'Diesel',
-      color: 'Blue',
+      color: 'Silver',
     },
   },
   {
@@ -160,7 +160,7 @@ export const cars: Car[] = [
     name: 'Crysta',
     description: 'Luxury MPV with exceptional comfort and space.',
     image:
-      'https://i.pinimg.com/736x/17/2a/3d/172a3de3053ae080a26f6bf67adef575.jpg',
+      'https://imgd.aeplcdn.com/370x208/n/70jijta_1496112.jpg?q=80',
     logo: 'https://www.carlogos.org/car-logos/toyota-logo.png',
     price: '4000',
     price7Days: '4000',
@@ -169,7 +169,7 @@ export const cars: Car[] = [
     extraKm: '11',
     extraHour: '250',
     rating: '4.9',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '7',
       transmission: 'Automatic',
@@ -182,8 +182,8 @@ export const cars: Car[] = [
     name: 'Thar',
     description: 'Iconic off-road SUV for adventure enthusiasts.',
     image:
-      'https://i.pinimg.com/736x/1f/42/8e/1f428ed25b47ee592594642f90984df0.jpg',
-    logo: 'https://logowik.com/content/uploads/images/mahindra-suv1293.jpg',
+      'https://imgd-ct.aeplcdn.com/1056x660/n/qy7pp0b_1638615.jpg?q=80',
+    logo: 'https://seeklogo.com/images/M/mahindra-suvs-logo-AAF596FF12-seeklogo.com.png',
     price: '5500',
     price7Days: '5000',
     price15Days: '4500',
@@ -191,7 +191,7 @@ export const cars: Car[] = [
     extraKm: '13',
     extraHour: '250',
     rating: '4.7',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '4',
       transmission: 'Manual',
@@ -204,7 +204,7 @@ export const cars: Car[] = [
     name: 'Fortuner',
     description: 'Premium SUV with commanding presence and luxury features.',
     image:
-      'https://e7.pngegg.com/pngimages/711/730/png-clipart-toyota-fortuner-car-toyota-avanza-daihatsu-ayla-toyota-compact-car-glass.png',
+      'https://imgd.aeplcdn.com/1280x720/n/cw/ec/175529/toyota-fortuner-right-front-three-quarter0.jpeg?isig=0',
     logo: 'https://www.carlogos.org/car-logos/toyota-logo.png',
     price: '7000',
     price7Days: '6000',
@@ -213,7 +213,7 @@ export const cars: Car[] = [
     extraKm: '15',
     extraHour: '300',
     rating: '4.9',
-    phoneNumber: '9705303657',
+    phoneNumber: '9346912387',
     features: {
       seats: '7',
       transmission: 'Automatic',

@@ -77,11 +77,16 @@ export default function Navbar() {
               Contact
             </button>
             <a
-              href="tel:+1234567890"
+              href="tel:+91"
               className="flex items-center space-x-3 bg-primary text-dark px-6 py-3 rounded-md hover:bg-primary-hover transition-all duration-300 transform hover:scale-105 font-semibold text-lg xl:text-xl"
             >
               Book Now
             </a>
+            <a href="https://www.instagram.com/happy_drivez">
+              <img src="https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="Instagram" 
+              className="h-16 w-auto sm:h-20 md:h-20 lg:h-20 rounded transition-all duration-300 hover:scale-105"/>
+            </a>
+            
           </div>
 
           {/* Mobile menu button */}
@@ -139,12 +144,17 @@ export default function Navbar() {
               Contact
             </button>
             <a
-              href="tel:+1234567890"
+              href="tel:+919346912387"
               className="block w-full text-center px-4 py-3 text-lg sm:text-xl text-primary font-medium hover:bg-primary hover:text-dark rounded-md transition-all duration-300"
               onClick={() => setIsOpen(false)}
             >
               Book Now
             </a>
+            <a href="https://www.instagram.com/happy_drivez">
+              <img src="https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="Instagram" 
+              className="h-16 w-auto sm:h-20 md:h-20 lg:h-20 rounded transition-all duration-300 hover:scale-105"/>
+            </a>
+           
           </div>
         </div>
       )}

@@ -63,11 +63,11 @@ export default function Fleet() {
               className="bg-black rounded-lg overflow-hidden shadow-lg transform hover:scale-110 transition-transform duration-300 relative"
             >
               <div>
-                <div className="relative">
+                <div className="relative ">
                   <img
                     src={car.image}
                     alt={car.name}
-                    className="w-full h-48 object-cover"
+                    className="w-full h-48 object-cover "
                   />
                   <div className="absolute top-3 left-3">
                     <img

@@ -1,6 +1,7 @@
 import { Mail, Phone, MapPin } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { ContactSkeleton } from './LoadingSkeleton';
+import MapEmbed from './MapEmbed';
 
 export default function Contact() {
   const [loading, setLoading] = useState(true);
@@ -30,83 +31,24 @@ export default function Contact() {
             <div className="mt-8 space-y-6">
               <div className="flex items-center">
                 <Phone className="h-6 w-6 text-blue-600" />
-                <span className="ml-4 text-gray-600">+1 (234) 567-8900</span>
+                <span className="ml-4 text-gray-600">+91 (934) 691-2387</span>
               </div>
               <div className="flex items-center">
                 <Mail className="h-6 w-6 text-blue-600" />
                 <span className="ml-4 text-gray-600">
-                  contact@luxedrive.com
+                  omvamshi2001@gmail.com
                 </span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-6 w-6 text-blue-600" />
                 <span className="ml-4 text-gray-600">
-                  123 Luxury Lane, Beverly Hills, CA 90210
+                  Sri Ramanapuram Colony, Ramanthapur, HYD, TG-500013
                 </span>
               </div>
             </div>
           </div>
 
-          <form className="space-y-6">
-            <div>
-              <label
-                htmlFor="name"
-                className="block text-sm font-medium text-gray-700"
-              >
-                Full Name
-              </label>
-              <input
-                type="text"
-                id="name"
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
-              />
-            </div>
-            <div>
-              <label
-                htmlFor="email"
-                className="block text-sm font-medium text-gray-700"
-              >
-                Email
-              </label>
-              <input
-                type="email"
-                id="email"
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
-              />
-            </div>
-            <div>
-              <label
-                htmlFor="phone"
-                className="block text-sm font-medium text-gray-700"
-              >
-                Phone
-              </label>
-              <input
-                type="tel"
-                id="phone"
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
-              />
-            </div>
-            <div>
-              <label
-                htmlFor="message"
-                className="block text-sm font-medium text-gray-700"
-              >
-                Message
-              </label>
-              <textarea
-                id="message"
-                rows={4}
-                className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
-              />
-            </div>
-            <button
-              type="submit"
-              className="w-full bg-primary text-black py-3 px-6 rounded-md hover:bg-primary-700 transition"
-            >
-              Send Message
-            </button>
-          </form>
+          <MapEmbed/>
         </div>
       </div>
     </section>
