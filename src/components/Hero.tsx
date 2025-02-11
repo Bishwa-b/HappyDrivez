@@ -20,7 +20,7 @@ export default function Hero() {
     <div className="relative h-screen">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80"
+          src="/images/car.avif"
           alt="Luxury car"
           className="w-full h-full object-cover"
         />
